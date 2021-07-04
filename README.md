@@ -4,3 +4,5 @@ A configurable ScriptUI replacement for the standard OS confirm(); dialog window
 * https://scriptui.joonas.me/
 * ScriptUI for Dummies by Peter Kahrel
 * Adobe Photoshop User Forum and other fora related to scripting Adobe apps
+
+![ScriptUI-Confirm-Window](https://user-images.githubusercontent.com/14517328/124369865-d96d2e80-dcb3-11eb-843c-92d7d74f67aa.png)
